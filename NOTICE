@@ -1,0 +1,13 @@
+IKATS
+Copyright CS Systèmes d'Information
+
+This product includes software developed by
+CS Systèmes d'Information (http://www.c-s.fr/)
+
+Third party components :
+------------------------
+
+2-clause BSD-like license:
+
+* Nginx - 1.15.4
+  http://nginx.org/LICENSE
