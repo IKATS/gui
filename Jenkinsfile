@@ -1,4 +1,3 @@
-@Library('jsl')_
 pipeline {
     agent any
     stages {
@@ -8,7 +7,7 @@ pipeline {
             }
         }
 
-        stage('Build and push images') {
+        stage('Build and push image') {
             agent { node { label 'docker' } }
             steps {
                 script {
